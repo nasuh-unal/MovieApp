@@ -20,4 +20,5 @@ Project Features
 - Retrofit
 - MVVM
 - Navigation Architecture Component
+- ViewModel Factory
 - Passing the data between navigation destinations.

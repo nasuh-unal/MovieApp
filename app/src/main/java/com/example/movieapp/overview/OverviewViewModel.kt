@@ -29,12 +29,12 @@ class OverviewViewModel : ViewModel() {
             //_status.value=MovieApiStatus.LOADING
             try {
                 _movies.value=MovieAppApi.retrofitService.getMovie().results
-                Log.v("mesaj",_movies.value.toString())
+                //Log.v("mesaj",_movies.value.toString())
                 //_status.value=MovieApiStatus.DONE
             }catch (e:Exception){
                 //_status.value=MovieApiStatus.ERROR
                 _movies.value=ArrayList()
-                Log.v("mesaj",e.message.toString())
+                //Log.v("mesaj",e.message.toString())
             }
         }
     }

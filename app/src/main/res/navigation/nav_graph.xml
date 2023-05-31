@@ -9,5 +9,18 @@
         android:id="@+id/overViewFragment"
         android:name="com.example.movieapp.overview.OverViewFragment"
         tools:layout="@layout/fragment_over_view"
-        android:label="OverViewFragment" />
+        android:label="OverViewFragment" >
+        <action
+            android:id="@+id/action_overViewFragment_to_movieDetailFragment2"
+            app:destination="@id/movieDetailFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/movieDetailFragment2"
+        android:name="com.example.movieapp.detail.MovieDetailFragment"
+        android:label="Details">
+        <argument
+            android:name="movieId"
+            app:argType="integer" />
+    </fragment>
+
 </navigation>

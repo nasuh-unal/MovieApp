@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/drawable/ic_baseline_broken_image_24.xml" value="0.168" />
+        <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/drawable/ic_baseline_cloud_off_24.xml" value="0.168" />
+        <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/drawable/ic_baseline_data_saver_off_24.xml" value="0.168" />
         <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.174" />
+        <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/drawable/ic_building.xml" value="0.174" />
+        <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/drawable/ic_error.xml" value="0.174" />
         <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/drawable/ic_language.xml" value="0.174" />
+        <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/drawable/loading_animation.xml" value="0.174" />
         <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/layout/fragment_movie_detail.xml" value="0.264" />
         <entry key="..\:/Android Projelerim/MovieApp/app/src/main/res/layout/fragment_over_view.xml" value="0.25416666666666665" />

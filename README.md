@@ -7,7 +7,6 @@ Introduction
 
 MovieApp is a Movie database app. This app is integrated with The Movie DB API. This application informs users about popular movies.
 
-(**This project is still developing**)
 
 
 Project Features
